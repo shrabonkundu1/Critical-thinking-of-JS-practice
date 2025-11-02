@@ -20,6 +20,8 @@ console.log(setArr)
 
 // just foreach kore duplicate remove ---
 
+
+// brute force
 const removeDuplicateArr = (arr) => {
     const newArr = [];
 
