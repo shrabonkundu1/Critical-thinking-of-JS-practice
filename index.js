@@ -52,3 +52,10 @@ console.timeEnd("map2");
 
 
 
+//  -------------data find kore time complexity nirnoi------------
+
+console.time("find");
+
+const user = secondArrayList.find((user) => user.userID === 50000000);
+
+console.timeEnd("find")
