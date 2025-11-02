@@ -17,3 +17,20 @@ for (let i = 0; i < 5000 ; i++){
 }
 
 console.timeEnd('task')
+
+
+// Abstract way 
+
+const firstArray = [];
+const secondArray = [];
+
+for (let i = 0; i < 6000000; i++){
+    if( i < 3000000 ){
+        firstArray.push(i);
+    }
+    secondArray.push(i);
+}
+
+
+console.log("first array",firstArray.length)
+console.log("second array",secondArray.length)
