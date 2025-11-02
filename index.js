@@ -59,3 +59,12 @@ console.time("find");
 const user = secondArrayList.find((user) => user.userID === 50000000);
 
 console.timeEnd("find")
+
+
+///-----------------------data includes kore index diye time complexity nirnoi---------
+
+console.time("index");
+
+const user2 = secondArrayList.includes[500000000];
+
+console.timeEnd("index")            //so data khojar dorkar hole find() na caliye includes[] calale O(1) hoi
