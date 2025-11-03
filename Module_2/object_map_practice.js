@@ -22,3 +22,6 @@ console.log(obj["programming hero"])
 
 //--------out put --{ courseId: 'level1' }
 
+
+// boolean object like true niye object create korle segula string e show kora na 
+
