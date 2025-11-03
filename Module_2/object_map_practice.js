@@ -14,3 +14,11 @@ console.log(obj.nextLevel)
 console.log(obj["programming hero"])
 
 //--------out put --{ courseId: 'level1' }
+
+
+
+// use object square notation: 
+// console.log(obj["programming hero"])
+
+//--------out put --{ courseId: 'level1' }
+
