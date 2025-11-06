@@ -1,6 +1,11 @@
 
 
 
+// scenario based activity  by - grouping data;
+
+
+
+
 // scenario based activity holo kaj e lage  group wise data alada korte like niche class wise data alada kora hoyece [
 
 //todo const students = [
